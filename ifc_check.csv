@@ -1,0 +1,5 @@
+Element;Name;Property_set_name;Property_name;Attribute;Relation;Value
+IfcWall;wall;Pset_WallCommon;IsExternal;;;
+IfcRamp;;;;;;
+IfcDoor;door;;;OverallWidth;>;900
+IfcOwnerHistory;Author;;;OwningUser.ThePerson.FamilyName;;
