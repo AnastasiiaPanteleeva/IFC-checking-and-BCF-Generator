@@ -10,3 +10,16 @@ In this project 5 types of checks were developed that check elements, properties
 ![4 Check](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/117fe58e20d09b81398104a76ce91f1264210031/images/4.Checking%20floors.png)
 ![5 Check](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/117fe58e20d09b81398104a76ce91f1264210031/images/5.Checking%20spaces.png)
 
+## Calculation of camera coordinates for BCF format
+
+- determining the dimensions of an element or model
+
+![Model Box](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/45bf869c8f15e76b7e2a47bd0a05aef0cc3529f9/images/6.Model%20Box.png)
+
+- finding the point closest to the edge of the frame
+
+![Point](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/45bf869c8f15e76b7e2a47bd0a05aef0cc3529f9/images/7.Point.png)
+
+- calculation of the distance from the center of the object to the camera, thereby determining its coordinates
+
+![Camera](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/45bf869c8f15e76b7e2a47bd0a05aef0cc3529f9/images/8.Camera.png)
