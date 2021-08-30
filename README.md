@@ -1,6 +1,6 @@
 # IFC-checking and BCF-Generator
 ![the scheme of work](images/1.Programm.png)
-In this project 5 types of checks were developed that check elements, properties, attributes, elements on the floor and the presence of spaces between the walls. The result is formatted as a BCF. For the BCF format, an algorithm was prescribed for automatically determining the camera position and view settings, which provides better feedback.
+In this project 5 types of checkings were developed that check elements, properties, attributes, elements on the floor and the presence of spaces between the walls. The result is formatted as a BCF. For the BCF format, an algorithm was prescribed for automatically determining the camera position and view settings, which provides better feedback.
 
 ## IFC-checking
 
@@ -14,7 +14,7 @@ In this project 5 types of checks were developed that check elements, properties
 
 - determining the dimensions of an element or model
 ![Model Box](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/45bf869c8f15e76b7e2a47bd0a05aef0cc3529f9/images/6.Model%20Box.png)
-- finding the point closest to the edge of the frame
+- finding the closest point to the edge of the frame
 ![Point](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/45bf869c8f15e76b7e2a47bd0a05aef0cc3529f9/images/7.Point.png)
 - calculation of the distance from the center of the object to the camera, thereby determining its coordinates
 ![Camera](https://github.com/AnastasiiaPanteleeva/IFC-checking-and-BCF-Generator/blob/45bf869c8f15e76b7e2a47bd0a05aef0cc3529f9/images/8.Camera.png)
